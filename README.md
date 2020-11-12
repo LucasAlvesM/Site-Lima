@@ -5,4 +5,4 @@
 . Parte 3 - Sobremesas (Vitor Geovani); <br>
 . Parte 4 - Bebidas (Ryan Marinho); <br>
 . Parte 5 - Contatos (Tiago Soares); <br>
-. Parte 6 - Sobre (Wanessa de Almeida); <br> ---- Não Fez
+. Parte 6 - Sobre (Wanessa de Almeida); ---- Não Fez
