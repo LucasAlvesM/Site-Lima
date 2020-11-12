@@ -83,6 +83,7 @@ h1, h2, h3, h4, h5, h6, p{
 }
 
 .nav-marca-botao{
+    background: url(../images/logo26.jpg)no-repeat;
     display: flex;
     align-items: center;
     justify-content: space-between;
